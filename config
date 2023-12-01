@@ -1,0 +1,1 @@
+tailscale up --advertise-routes=10.0.0.0/24,192.168.0.0/24,172.16.0.0/24 --advertise-exit-node --advertise-tags=tag:it
