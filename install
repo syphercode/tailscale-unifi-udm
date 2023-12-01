@@ -1,3 +1,4 @@
 # Install the latest version of Tailscale UDM
 curl -sSLq https://raw.github.com/SierraSoftworks/tailscale-udm/main/install.sh | sh
 tailscale up
+tailscale status
